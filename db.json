@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "message": "Changed Netowork Card at 008",
+      "attention": false,
+      "tech": "Jo",
+      "date": "2020-05-04T15:36:48.198Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "FIxed Hard Drive on 008",
+      "attention": false,
+      "tech": "Jo",
+      "date": "2020-05-04T16:57:56.380Z"
+    },
+    {
+      "message": "Computer failed",
+      "attention": "",
+      "tech": "Joh",
+      "date": "2020-05-04T15:37:11.700Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    }
+  ]
+}
